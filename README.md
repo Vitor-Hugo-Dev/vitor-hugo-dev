@@ -1,21 +1,21 @@
-## Olá meu nome é [Seu nome]!
+## Olá meu nome é Vitor Hugo!
 
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo SGBD-MySQL</li>
-    <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li>
-    <li>- 😄 Pronomes: [seus pronomes aqui]</li>
-    <li>- ⚡ Fun fact: [alguma curiosidade sua]</li>
+    <li>- 🌱 Aprendendo Aggregation Framework</li>
+    <li>- 💬 Me pergunte sobre React.js, Node.js, SQL, Mongo</li>
+    <li>- 😄 Pronomes: Ele/Dele</li>
+    <li>- ⚡ Fun fact: Programador/Surfista 🏄‍♂️ </li>
   </div>
 </div>
 
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-ol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-ol&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Hugo-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Hugo-Dev&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
 </div>
 
 ---
@@ -38,10 +38,10 @@
 ### Contato
 
 <div>
-  <a href="[link para seu linkedin]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:[seu email aqui]"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/[seu usuario do ig]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="[link para seu discord]" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vitor-hugo-dino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:vitorhugo.dev1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/vitor_dino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5H2RcSRr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
 
