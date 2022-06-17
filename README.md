@@ -3,9 +3,9 @@
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo Aggregation Framework</li>
-    <li>- 💬 Me pergunte sobre React.js, Node.js, SQL, Mongo</li>
+    <li>- 🔭 Sou formado em Desenvolvimento de Software Web na <a href="https://betrybe.com">Trybe</a></li>
+    <li>- 🌱 Estou aprendendo Java</li>
+    <li>- 💬 Me pergunte sobre Node.js, JavaScript, Java</li>
     <li>- 😄 Pronomes: Ele/Dele</li>
     <li>- ⚡ Fun fact: Programador/Surfista 🏄‍♂️ </li>
   </div>
